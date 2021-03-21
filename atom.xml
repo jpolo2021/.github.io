@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-21T07:49:23.541Z</updated>
+  <updated>2021-03-21T08:14:55.657Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两只老虎</title>
+    <link href="http://example.com/2021/03/21/%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E/"/>
+    <id>http://example.com/2021/03/21/%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E/</id>
+    <published>2021-03-21T07:33:50.000Z</published>
+    <updated>2021-03-21T08:14:55.657Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=671792132&bvid=BV1dU4y1W7qo&cid=300052216&page=1" scrolling="no" border="50" frameborder="no" framespacing="0" allowfullscreen="true" height="300" width="400"> </iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=671792132&amp;bvid=BV1dU4y1W7qo&amp;cid=300052216&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;50&quot; frameborder=</summary>
+      
+    
+    
+    
+    
+    <category term="video" scheme="http://example.com/tags/video/"/>
+    
+  </entry>
   
   <entry>
     <title>happy birthday</title>
