@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ttj&#39;blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-03-21T01:24:14.107Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>ttj</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>happy birthday</title>
+    <link href="http://example.com/2021/03/21/happy-birthday/"/>
+    <id>http://example.com/2021/03/21/happy-birthday/</id>
+    <published>2021-03-20T16:24:59.000Z</published>
+    <updated>2021-03-21T01:24:14.107Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    虽然迟了一天写这个，</p><p>​    但我博客的的确确是昨天（生日那天）创建的喔</p><p>​    不管怎么说 生日快乐吧。</p><p>​    新的一岁，勇往直前, 加油。</p><p>​    (also thanks to zq ‘birthday wishes )</p><p>​    19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​    虽然迟了一天写这个，&lt;/p&gt;
+&lt;p&gt;​    但我博客的的确确是昨天（生日那天）创建的喔&lt;/p&gt;
+&lt;p&gt;​    不管怎么说 生日快乐吧。&lt;/p&gt;
+&lt;p&gt;​    新的一岁，勇往直前, 加油。&lt;/p&gt;
+&lt;p&gt;​    (also thanks to zq ‘bir</summary>
+      
+    
+    
+    
+    
+    <category term="birthday" scheme="http://example.com/tags/birthday/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>my first</title>
+    <link href="http://example.com/2021/03/20/my-first/"/>
+    <id>http://example.com/2021/03/20/my-first/</id>
+    <published>2021-03-20T10:59:43.000Z</published>
+    <updated>2021-03-20T11:00:44.953Z</updated>
+    
+    <content type="html"><![CDATA[<p>for the world</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;for the world&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="bolg" scheme="http://example.com/tags/bolg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/03/20/hello-world/"/>
+    <id>http://example.com/2021/03/20/hello-world/</id>
+    <published>2021-03-20T10:46:14.666Z</published>
+    <updated>2021-03-20T11:08:14.501Z</updated>
+    
+    <content type="html"><![CDATA[<p>​                                                            Welcome to ttj’blog!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​                                                            Welcome to ttj’blog!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
