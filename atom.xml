@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-26T13:03:52.856Z</updated>
+  <updated>2021-03-26T14:14:40.658Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,52 +18,12 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2021/03/26/git/"/>
-    <id>http://example.com/2021/03/26/git/</id>
-    <published>2021-03-26T12:15:32.584Z</published>
-    <updated>2021-03-26T13:03:52.856Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>git init 初始化</p><p>git status 查看文件状态</p><p>git add . 追踪文件</p><p>git commit -m 提示信息，向仓库提交代码</p><p>git log 查看提交记录</p><p>若按照以下顺序</p><ol><li>git init  初始化本地仓库</li><li>git remote add origin 地址   添加远程仓库地址</li><li>如果你在这之后就执行</li><li>git add -A，</li><li>git commit -m    “ “</li><li>git push origin master,  那么就会出现这个问题(被拒绝)，</li></ol><ul>     ! [rejected]        master -> master (non-fast-forward)error: failed to push some refs to 'c-plus-plus'</ul><p>所以在remote add后不要着急git add，一定要git pull origin master，出现这个原因</p><p>即码云上初始化有readme文件而本地没有，故本地与云端不同步</p><p>方法：先拉再推  先pull 再push</p><p>​              git push -f origin master 强制上传（不建议）</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
     <link href="http://example.com/2021/03/26/acm/"/>
     <id>http://example.com/2021/03/26/acm/</id>
     <published>2021-03-26T08:38:43.905Z</published>
-    <updated>2021-03-26T08:38:43.905Z</updated>
+    <updated>2021-03-26T14:14:40.658Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>对于acm，一定要全身心参加，不要参加其他活动</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2021/03/26/class/"/>
-    <id>http://example.com/2021/03/26/class/</id>
-    <published>2021-03-26T03:20:12.552Z</published>
-    <updated>2021-03-26T03:38:12.800Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>class类最后加分号，以免出现 以下错误</p><p>  <code>new types may not be defined in a return type</code></p><p>声明可加默认参数，定义中不可加参数</p><p>3.</p><p>不带参数的构造函数 与函数声明易混淆</p><pre><code>        &lt;ul&gt;Person dog()&lt;/ul&gt;</code></pre><p>既可被认为是对象，又可被认为是函数；造成报错</p><ol>    error: request for member ‘show’ in ‘dog’, which is of non-class type ‘Person()’   12 |     dog.show();      |         ^~~~</ol><p>解决  ： 不用（）</p><p>​                用花括号{}</p><p>​                用赋值运算符</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><p>title: acm<br>date: 2021-03-25 15:33:50<br>tags: learning</p><hr><p>对于acm，一定要全身心参加，不要参加其他活动</p>]]></content>
     
     
       
@@ -77,11 +37,33 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2021/03/25/%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8/"/>
-    <id>http://example.com/2021/03/25/%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8/</id>
-    <published>2021-03-25T09:09:04.229Z</published>
-    <updated>2021-03-25T09:09:04.229Z</updated>
+    <title>class</title>
+    <link href="http://example.com/2021/03/24/class/"/>
+    <id>http://example.com/2021/03/24/class/</id>
+    <published>2021-03-24T07:33:50.000Z</published>
+    <updated>2021-03-26T14:16:33.660Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>class类最后加分号，以免出现 以下错误</li></ol><p>  <code>new types may not be defined in a return type</code></p><ol start="2"><li><p>声明可加默认参数，定义中不可加参数</p></li><li><p>不带参数的构造函数 与函数声明易混淆</p><pre><code>     &lt;ul&gt;Person dog()&lt;/ul&gt;</code></pre><p> 既可被认为是对象，又可被认为是函数；造成报错</p></li></ol><ol>    error: request for member ‘show’ in ‘dog’, which is of non-class type ‘Person()’   12 |     dog.show();      |         ^~~~</ol><p>​         解决  ： 1. 不用（）</p><p>​                        2. 用花括号{}</p><p>​                         3. 用赋值运算符</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
+      
+    
+    
+    
+    
+    <category term="c++" scheme="http://example.com/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>链表</title>
+    <link href="http://example.com/2021/03/22/%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8/"/>
+    <id>http://example.com/2021/03/22/%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8/</id>
+    <published>2021-03-22T07:33:50.000Z</published>
+    <updated>2021-03-26T14:17:10.279Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>静态链表：类似结构数组，兼有顺序表与链表优点。</p><p>采用下标代替指针标记上下元素。</p><p>实现：创建一个大的结构体，从0号节点向后存储数据，然后通过下标标记上下元素；</p>]]></content>
     
@@ -93,6 +75,8 @@
     
     
     
+    
+    <category term="c" scheme="http://example.com/tags/c/"/>
     
   </entry>
   
@@ -115,6 +99,28 @@
     
     
     <category term="使用" scheme="http://example.com/tags/%E4%BD%BF%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git使用</title>
+    <link href="http://example.com/2021/03/21/git/"/>
+    <id>http://example.com/2021/03/21/git/</id>
+    <published>2021-03-21T07:33:50.000Z</published>
+    <updated>2021-03-26T14:17:49.979Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>git init 初始化</p><p>git status 查看文件状态</p><p>git add . 追踪文件</p><p>git commit -m 提示信息，向仓库提交代码</p><p>git log 查看提交记录</p><p>若按照以下顺序</p><ol><li>git init  初始化本地仓库</li><li>git remote add origin 地址   添加远程仓库地址</li><li>如果你在这之后就执行</li><li>git add -A，</li><li>git commit -m    “ “</li><li>git push origin master,  那么就会出现这个问题(被拒绝)，</li></ol><ul>     ! [rejected]        master -> master (non-fast-forward)error: failed to push some refs to 'c-plus-plus'</ul><p>所以在remote add后不要着急git add，一定要git pull origin master，出现这个原因</p><p>即码云上初始化有readme文件而本地没有，故本地与云端不同步</p><p>方法：先拉再推  先pull 再push</p><p>​              git push -f origin master 强制上传（不建议）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
+      
+    
+    
+    
+    
+    <category term="git" scheme="http://example.com/tags/git/"/>
     
   </entry>
   
