@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-26T14:14:40.658Z</updated>
+  <updated>2021-03-27T09:06:53.771Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html</title>
+    <link href="http://example.com/2021/03/27/html/"/>
+    <id>http://example.com/2021/03/27/html/</id>
+    <published>2021-03-27T08:37:30.000Z</published>
+    <updated>2021-03-27T09:06:53.771Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul><li> 浮动元素不覆盖文字与图片内容</li><li>浮动元素不会覆盖表单元素：输入，按钮；</li><li>将div变为居中：只用将margin改为auto。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
+      
+    
+    
+    
+    
+    <category term="html" scheme="http://example.com/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wsl and vmware</title>
+    <link href="http://example.com/2021/03/27/vmware/"/>
+    <id>http://example.com/2021/03/27/vmware/</id>
+    <published>2021-03-27T03:04:47.000Z</published>
+    <updated>2021-03-27T03:12:39.248Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>wsl 与wmware还不兼容，</p><p>若启用了wsl后使用vmware，再次打开wsl会出现以下显示</p><ul>    请启用虚拟机平台 Windows 功能并确保在 BIOS 中启用虚拟化。    有关信息，请访问 https://aka.ms/wsl2-install    Press any key to continue...</ul><p>打开powershell执行   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart</p><p>即可</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
+      
+    
+    
+    
+    
+    <category term="wsl" scheme="http://example.com/tags/wsl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>运算符重载</title>
+    <link href="http://example.com/2021/03/26/%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD/"/>
+    <id>http://example.com/2021/03/26/%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD/</id>
+    <published>2021-03-26T14:51:58.000Z</published>
+    <updated>2021-03-27T09:05:48.081Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    遵循以下几个条件</p><ul><li><p>保持原语义</p></li><li><p>参数，返回值类型</p></li><li><p>能否级联</p><p>通常可作为成员函数或友元函数重载；</p><p>重载的参数，返回值一般使用应用（防内存泄漏）</p><p>重载时，类对象作为第一个参数</p><p>​            如乘法只能用 time * 2，而不能用2 *time</p><p>​            使用友元函数可解决这个问题</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
+      
+    
+    
+    
+    
+    <category term="c++" scheme="http://example.com/tags/c/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -129,7 +195,7 @@
     <link href="http://example.com/2021/03/21/%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E/"/>
     <id>http://example.com/2021/03/21/%E4%B8%A4%E5%8F%AA%E8%80%81%E8%99%8E/</id>
     <published>2021-03-21T07:33:50.000Z</published>
-    <updated>2021-03-21T08:14:55.657Z</updated>
+    <updated>2021-03-26T14:26:20.952Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=671792132&bvid=BV1dU4y1W7qo&cid=300052216&page=1" scrolling="no" border="50" frameborder="no" framespacing="0" allowfullscreen="true" height="300" width="400"> </iframe>]]></content>
     
