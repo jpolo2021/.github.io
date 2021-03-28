@@ -48,10 +48,15 @@
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>wsl 与wmware还不兼容，</p><p>若启用了wsl后使用vmware，再次打开wsl会出现以下显示</p><ul>    请启用虚拟机平台 Windows 功能并确保在 BIOS 中启用虚拟化。    有关信息，请访问 https://aka.ms/wsl2-install    Press any key to continue...</ul><p>打开powershell执行   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart</p><p>即可</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\js\APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;&lt;p&gt;wsl 与wmware还不兼容，&lt;/p&gt;
+&lt;p&gt;若启用了wsl后使用vmware，再次打开wsl会出现以下显示&lt;/p&gt;
+&lt;ul&gt;
+    请启用虚拟机平台 Windows 功能并确保在 BIOS 中启用虚拟化。
+    有关信息，请访问 https://aka.ms/wsl2-install
+    Press any key to continue...
+&lt;/ul&gt;
+
+&lt;p&gt;打开powershell执行   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart&lt;/p&gt;</summary>
     
     
     
@@ -65,15 +70,23 @@
     <link href="http://example.com/2021/03/26/%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD/"/>
     <id>http://example.com/2021/03/26/%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD/</id>
     <published>2021-03-26T14:51:58.000Z</published>
-    <updated>2021-03-27T09:05:48.081Z</updated>
+    <updated>2021-03-28T09:02:34.796Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    遵循以下几个条件</p><ul><li><p>保持原语义</p></li><li><p>参数，返回值类型</p></li><li><p>能否级联</p><p>通常可作为成员函数或友元函数重载；</p><p>重载的参数，返回值一般使用应用（防内存泄漏）</p><p>重载时，类对象作为第一个参数</p><p>​            如乘法只能用 time * 2，而不能用2 *time</p><p>​            使用友元函数可解决这个问题</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​    遵循以下几个条件</p><ul><li><p>保持原语义</p></li><li><p>参数，返回值类型</p></li><li><p>能否级联</p><p>通常可作为成员函数或友元函数重载；</p><p>重载的参数，返回值一般使用应用（防内存泄漏）</p><p>重载时，类对象作为第一个参数</p><p>​            如乘法只能用 time * 2，而不能用2 *time</p><p>​            使用友元函数可解决这个问题</p> <span id="more"></span></li></ul>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
+    <summary type="html">&lt;p&gt;​    遵循以下几个条件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;保持原语义&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;参数，返回值类型&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;能否级联&lt;/p&gt;
+&lt;p&gt;通常可作为成员函数或友元函数重载；&lt;/p&gt;
+&lt;p&gt;重载的参数，返回值一般使用应用（防内存泄漏）&lt;/p&gt;
+&lt;p&gt;重载时，类对象作为第一个参数&lt;/p&gt;
+&lt;p&gt;​            如乘法只能用 time * 2，而不能用2 *time&lt;/p&gt;
+&lt;p&gt;​            使用友元函数可解决这个问题&lt;/p&gt;</summary>
     
     
     
@@ -92,10 +105,10 @@
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr><p>title: acm<br>date: 2021-03-25 15:33:50<br>tags: learning</p><hr><p>对于acm，一定要全身心参加，不要参加其他活动</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\js\APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;&lt;hr&gt;
+&lt;p&gt;title: acm&lt;br&gt;date: 2021-03-25 15:33:50&lt;br&gt;tags: learning&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;对于acm，一定要全身心参加，不要参加其他活动&lt;/p&gt;</summary>
     
     
     
@@ -112,10 +125,24 @@
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ol><li>class类最后加分号，以免出现 以下错误</li></ol><p>  <code>new types may not be defined in a return type</code></p><ol start="2"><li><p>声明可加默认参数，定义中不可加参数</p></li><li><p>不带参数的构造函数 与函数声明易混淆</p><pre><code>     &lt;ul&gt;Person dog()&lt;/ul&gt;</code></pre><p> 既可被认为是对象，又可被认为是函数；造成报错</p></li></ol><ol>    error: request for member ‘show’ in ‘dog’, which is of non-class type ‘Person()’   12 |     dog.show();      |         ^~~~</ol><p>​         解决  ： 1. 不用（）</p><p>​                        2. 用花括号{}</p><p>​                         3. 用赋值运算符</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\js\APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;&lt;ol&gt;
+&lt;li&gt;class类最后加分号，以免出现 以下错误&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;  &lt;code&gt;new types may not be defined in a return type&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;&lt;p&gt;声明可加默认参数，定义中不可加参数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;不带参数的构造函数 与函数声明易混淆&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;     &amp;lt;ul&amp;gt;Person dog()&amp;lt;/ul&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt; 既可被认为是对象，又可被认为是函数；造成报错&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol&gt;
+    error: request for member ‘show’ in ‘dog’, which is of non-class type ‘Person()’
+   12 |     dog.show();
+      |         ^~~~
+&lt;/ol&gt;</summary>
     
     
     
@@ -178,10 +205,10 @@
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\.github.io\assets\css\APlayer.min.css"><script src="\.github.io\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>git init 初始化</p><p>git status 查看文件状态</p><p>git add . 追踪文件</p><p>git commit -m 提示信息，向仓库提交代码</p><p>git log 查看提交记录</p><p>若按照以下顺序</p><ol><li>git init  初始化本地仓库</li><li>git remote add origin 地址   添加远程仓库地址</li><li>如果你在这之后就执行</li><li>git add -A，</li><li>git commit -m    “ “</li><li>git push origin master,  那么就会出现这个问题(被拒绝)，</li></ol><ul>     ! [rejected]        master -> master (non-fast-forward)error: failed to push some refs to 'c-plus-plus'</ul><p>所以在remote add后不要着急git add，一定要git pull origin master，出现这个原因</p><p>即码云上初始化有readme文件而本地没有，故本地与云端不同步</p><p>方法：先拉再推  先pull 再push</p><p>​              git push -f origin master 强制上传（不建议）</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\</summary>
-      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\.github.io\assets\js\APlayer.min.js&quot; class=&quot;aplayer-secondary-script-marker&quot;&gt;&lt;/script&gt;&lt;p&gt;git init 初始化&lt;/p&gt;
+&lt;p&gt;git status 查看文件状态&lt;/p&gt;
+&lt;p&gt;git add . 追踪文件&lt;/p&gt;
+&lt;p&gt;git commit -m 提示信息，向仓库提交代码&lt;/p&gt;</summary>
     
     
     
